@@ -1,0 +1,97 @@
+:root {
+  --cs-green: #203c35;
+  --cs-cedar: #a86643;
+  --cs-beige: #f5f0e7;
+  --cs-light: #e8efeb;
+  --cs-darkGreen: #26312d;
+  --cs-white: #5d6a64;
+}
+
+body {
+  background-color: #fff9f1;
+}
+
+header {
+  background-color: #203c35;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+header a[href="#contact"] {
+  background-color: #a86643;
+}
+
+.ourServices {
+  color: #a86643;
+  font-size: 2rem;
+}
+
+.service-a a {
+  color: #a86643;
+  font-size: 1.5rem;
+}
+
+.articleCards {
+  background-color: #f5f0e7;
+}
+
+.bg-home {
+  background-color: #f5f0e7;
+}
+
+.home {
+  color: #a86643;
+}
+
+.btn-solid {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: var(--cs-green);
+}
+
+.btn-outline-block {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: var(var(--cs-green));
+  --bs-btn-border-color: var(--cs-green);
+}
+
+.bg-service {
+  background-color: #ffffff;
+}
+
+footer {
+  background-color: #203c35;
+}
+
+.helloEmail a {
+  color: #a86643;
+}
+
+.contactButton {
+  background-color: #a86643;
+}
+
+.processSection {
+  background-color: #e8efeb;
+}
+
+.howItWorks {
+  color: #a86643;
+}
+
+.aboutSection {
+  background-color: #f5f0e7;
+}
+
+.readyColor {
+  color: #a86643;
+}
+
+.whyCedar {
+  color: #a86643;
+}
+
+.contactSection {
+  background-color: #ffffff;
+}
